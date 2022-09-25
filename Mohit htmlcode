@@ -1,0 +1,45 @@
+<html>
+<head>
+<title> Mohit Lab test 1
+ </title>
+
+</head>
+
+<body>
+<STYLE>
+	Th{
+		font-size: 50;
+	</STYLE>
+<table border=9 bgcolor="#ffccf2">
+<tr>
+	<th> FORD GT               </th>
+	<th> MUSTANG SHELBY        </th>
+	<th> LAMBORGHINI AVENTADOR </th>
+</tr>
+<tr>
+     <td><img height="200" src="CAR1.jpg"/> </td> 
+     <td><img height="200" src="CAR2.jpg"/> </td> 
+     <td><img height="200" src="CAR3.jpg"/> </td> 
+ </tr>
+      <td>
+      	<h4>Features:</h4>
+      	If you prefer the first-generation Ford GT to the second, you’re in luck. Very big luck.
+
+A dazzling red-and-white example of the first iteration of the Detroit giant’s retro-inspired supercar was just listed for sale by Sarchione Auto Gallery in Canton, Ohio, according to DuPont Registry. While any Ford GT being listed for sale is noteworthy, this 2006 model is especially desirable because of the number on the odometer: 50.
+
+First unveiled in concept form in 2002, the Ford GT was meant as both a celebration of the brand’s centenary and a tribute to the car that brought it its biggest success on the track—the original Ford GT40. That’s the car that allowed the American automaker to finally beat Ferrari, won Le Mans four times in a row and inspired a movie you may have heard of. It’s also exceedingly rare, with only 4,038 built during the two years it was in production. A second generation, which is now in its final year of production, was introduced in 2017
+</td>
+<td>
+	<h4>Features:</h4>
+	In 1968, the GT500 was getting some major improvements, namely the engine going to the new 428 Cobra Jet. In a meeting with Le Iacocca, Ford Division General Manager, Lee mentioned to Carroll that they had recently caught wind that Chevrolet was going to name their new Corvette the “King of the Road”. Carroll thought to himself that he always wanted to use that name and immediately called his trade dress lawyer, asking him to quickly find out if “King of the Road” was taken. Turns out it wasn’t, Carroll and his team immediately dubbed the new GT500 the GT500KR for “King of the Road” and successfully filed a trade dress for the name. Only XXX GT500KRs were made in 1968 and are some of the most sought after collector Mustang in existence.
+
+The second coming of the GT500KR was revealed at the 2007 New York International Auto Show, two years after the standard GT500 was announced. The Mustang boasted many performance upgrades including an additional 40 horsepower, new suspension, a state-of-the-art carbon fiber hood, Forged aluminum wheels and Goodyear tires developed specially for the program. The GT500KR was built at Shelby World Headquarters in Las Vegas in the Spring of 2008 and in 2009.
+</td>
+<td>
+	<h4>Features:</h4>
+	DESIGNED TO PUSH BEYOND PERFORMANCE
+Revolutionary thinking is at the heart of every idea from Automobili Lamborghini. Whether it is aerospace-inspired design or technologies applied to the naturally aspirated V12 engine or carbon-fiber structure, going beyond accepted limits is part of our philosophy. The Aventador advances every concept of performance, immediately establishing itself as the benchmark for the super sports car sector. Giving a glimpse of the future today, it comes from a family of supercars already considered legendary.
+</td>
+</table>
+</body>
+</html>
